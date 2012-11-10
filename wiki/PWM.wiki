@@ -2,12 +2,19 @@
 
 = What is PWM? =
 
-Pulse-width modulation (PWM)is a commonly used technique for controlling power to electrical devices.
+Pulse-width modulation (PWM)is a commonly used technique for controlling power flow to electrical devices.
 
 The average value of voltage (and current) fed to the load is controlled by turning the switch between supply and load on and off at a fast pace. The longer the switch is on compared to the off periods, the higher the power supplied to the load is.
 
 
-= Details =
+= Incorporation into CMDrobot =
+
+In order to control the robot's motor speed the amount of voltage had to be varied. There were a couple of ways to tackle this, listed below:
+
+   * *Option 1*
+
+Our first option was to have a series of switchable transistors and/or relays with each path incurring a particular resistance.
+
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
