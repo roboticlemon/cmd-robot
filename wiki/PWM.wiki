@@ -1,0 +1,15 @@
+#summary One-sentence summary of this page.
+
+= What is PWM? =
+
+Pulse-width modulation (PWM)is a commonly used technique for controlling power to electrical devices.
+
+The average value of voltage (and current) fed to the load is controlled by turning the switch between supply and load on and off at a fast pace. The longer the switch is on compared to the off periods, the higher the power supplied to the load is.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
