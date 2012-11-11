@@ -1,0 +1,20 @@
+Documentation can be found at the following links:
+
+If statements:
+http://challenge.ncss.edu.au/special/documents/section/1272
+
+http://challenge.ncss.edu.au/special/documents/section/1273
+
+
+Elif and Else statements:
+http://challenge.ncss.edu.au/special/documents/section/1274
+
+
+While loops:
+http://challenge.ncss.edu.au/special/documents/section/1290
+
+
+
+
+
+More documentation to be written on separate pages later
