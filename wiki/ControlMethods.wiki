@@ -7,7 +7,7 @@ Below is a list of methods and there names and ways to access them.
  
 
 
-- Manual speed control via keyboard by @wallarug:
+** Manual speed control via keyboard by @wallarug: **
 
 This method allows the user to specify the exact integer value between 0 - 255 and set the speed for the LEFT or RIGHT motor. 
 There is also an option to not send the data to a TCP server which would be handy if you were feeling a bit lazy.  Incorporated into Control module as of version Beta 1.3.
