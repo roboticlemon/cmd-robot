@@ -1,4 +1,4 @@
-#All about PWM and how we use it to vary motor speed!
+All about PWM and how we use it to vary motor speed!
 
 = What is PWM? =
 
