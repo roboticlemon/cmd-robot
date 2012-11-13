@@ -21,7 +21,13 @@ The second option and first REAL option was to have a series of switchable trans
 
    * *Option 3*
 
-Our third option was to investigate a method of voltage regulation called Pulse Width Modulation. The concept was easy to understand but would prove extremely difficult to implement. By varying the ratio of on to off switching we would be able to effectively control the speed of the motors from stall to maximum speed. With 256 possible values for output the option would fit nicely with the accuracy of the joystick
+Our third option was to investigate a method of voltage regulation called Pulse Width Modulation. The concept was easy to understand but would prove extremely difficult to implement. By varying the ratio of on to off switching we would be able to effectively control the speed of the motors from stall to maximum speed. With 256 possible values for output the option would fit nicely with the accuracy of the joystick.
+
+After much discussion it was decided we would attempt to do this option and could fall back on option 2 if necessary.
+
+=Problems with PWM=
+
+The first real problem with PWM was the fact that the Raspberry Pi only had support for one channel. This effectively meant we could only control the device going forwards or backwards (using a bit of relay switching and transistor work, normally it would only be able to go one direction) with both motors going at the same speed.
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
