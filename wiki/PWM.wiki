@@ -13,8 +13,15 @@ In order to control the robot's motor speed the amount of voltage had to be vari
 
    * *Option 1*
 
-Our first option was to have a series of switchable transistors and/or relays with each path incurring a particular resistance.
+Our first suggestion was that we shouldn't have any speed control because the difficulty was to high but after evaluating the following options we decided it was crucial to the project because it also effected other elements of the project such as steering.
 
+   * *Option 2*
+
+The second option and first REAL option was to have a series of switchable transistors and/or relays creating individual paths with each path incurring a particular resistance or linking particular batteries into series. Using the Raspberry Pi GPIO interface we would be able to control the voltage flowing to the motors which would effectively give us speed control in large increments.
+
+   * *Option 3*
+
+Our third option was to investigate a method of voltage regulation called Pulse Width Modulation. The concept was easy to understand but would prove extremely difficult to implement. By varying the ratio of on to off switching we would be able to effectively control the speed of the motors from stall to maximum speed. With 256 possible values for output the option would fit nicely with the accuracy of the joystick
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
