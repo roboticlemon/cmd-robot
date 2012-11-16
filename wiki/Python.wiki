@@ -1,4 +1,4 @@
-Python is the programming language we are using for the majority of the robot project.
+Python is the programming language we are using for the majority of the robot project. The version we are using is 2.7 Python is an easy to use language with extensive capabilities
 
 
 
