@@ -1,4 +1,4 @@
-This page describes the methods used to control the two motors...
+#summary This page describes the methods used to control the motors
 
 
 Over the past 5 weeks we have been using a Joystick to control the speed and direction of the motors.  We have come to know that this is not always a viable option if one of us has the Joystick and the other doesn't.
