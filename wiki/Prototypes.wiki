@@ -4,7 +4,7 @@
 
 Throughout the construction of the robot we have developed and will continue developing a series of prototypes.
 
-=Prototype 1
+=Prototype 1=
 
 ==General Info==
 
