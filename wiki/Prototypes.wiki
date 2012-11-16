@@ -2,13 +2,19 @@
 
 = Introduction =
 
-Throughout the construction of the robot we have developed a series of prototypes.
+Throughout the construction of the robot we have developed and will continue developing a series of prototypes.
 
+=Prototype 1
 
-= Examples =
+==General Info==
 
-Below is an example of prototype 1:
+Our first prototype was created on the 11th November which incorporated:
 
+  * Ad-hoc network data exchange with network hosted on RPi
+  * Control Module Beta version 1.5.6
+  * 2 Motors powered by L293D H-Bridge IC
+== Footage ==
 
+Below is footage of prototype 1:
 
 <wiki:video url="http://www.youtube.com/watch?v=rO3DVX1a87w&feature=plcp"/>
