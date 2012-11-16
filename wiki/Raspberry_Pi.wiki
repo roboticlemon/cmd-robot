@@ -12,8 +12,3 @@ The Raspberry Pi is the Linux driven brain of both robots. It runs the TCP serve
   * Storage capacity = SD card slot with 2/8GB card used (SDHC class 4/10)
   * Memory = 512 MB clocked at 500MHz
   * Graphics = Broadcom VideoCore IV
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
