@@ -10,7 +10,7 @@ Throughout the construction of the robot we have developed and will continue dev
 
 Our first prototype was created on the 11th November which incorporated:
 
-  * Ad-hoc network data exchange with network hosted on RPi (only after Monday the 12th November
+  * Ad-hoc network data exchange with network hosted on RPi (only after Monday the 12th November)
   * Control Module Beta version 1.5.6
   * 2 Motors powered by L293D H-Bridge IC
 == Footage ==
