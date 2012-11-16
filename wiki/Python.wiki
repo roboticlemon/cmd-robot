@@ -1,3 +1,12 @@
+Python is the programming language we are using for the majority of the robot project.
+
+
+
+
+
+
+
+
 Documentation can be found at the following links:
 
 If statements:
