@@ -1,0 +1,11 @@
+#summary All about the Raspberry Pi and how we use them
+
+= Introduction =
+
+The Raspberry Pi is the Linux driven brain of both robots. It runs the TCP server and in the future will run other data servers. The Pi is also in charge of status LEDs and other hardware such as amplifiers, speakers and wireless hardware. The Pi is the device that will receive the wireless data and then write it through the serial port to the Arduino.
+= Specifications =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
