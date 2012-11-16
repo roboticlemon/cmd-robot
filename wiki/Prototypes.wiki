@@ -1,0 +1,14 @@
+#summary Information about past and current prototypes
+
+= Introduction =
+
+Throughout the construction of the robot we have developed a series of prototypes.
+
+
+= Examples =
+
+Below is an example of prototype 1:
+
+
+
+<wiki:video url="http://www.youtube.com/watch?v=rO3DVX1a87w&feature=plcp"/>
