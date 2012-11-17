@@ -33,5 +33,6 @@ If editing the Arduino Sketch, you may need to install the Arduino IDE package o
 
 For Linux:
 *_sudo apt-get arduino
+
 For Windows:
 * Download the Arduino package located on the downloads page.
