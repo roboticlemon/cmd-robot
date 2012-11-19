@@ -31,7 +31,10 @@ _sudo apt-get install python-dev pyserial_
 If editing the Arduino Sketch, you may need to install the Arduino IDE package on either the Windows or Linux operating System, depending on what takes your fancy (I suggest Windows, it is quicker).
 
 For Linux:
-  * `sudo apt-get arduino`
+  * 
+{{{
+sudo apt-get arduino`
+}}}
 
 For Windows:
   * Download the Arduino package located on the downloads page.
