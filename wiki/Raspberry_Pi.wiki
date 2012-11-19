@@ -5,6 +5,7 @@
 The Raspberry Pi is the Linux driven brain of both robots. It runs the TCP server and in the future will run other data servers. The Pi is also in charge of status LEDs and other hardware such as amplifiers, speakers and wireless hardware. The Pi is the device that will receive the wireless data and then write it through the serial port to the Arduino.
 = Specifications =
 
+  * Device = Raspberry Pi Model B 512Mb RAM
   * Price = US$ 35
   * Operating system= many Linux flavours (Debian, Fedora) we are using a     Debian Wheezy fork named Rasbian (hard float)
   * Power = 3.5 W
