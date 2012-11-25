@@ -1,0 +1,14 @@
+#summary Info on the operating systems used in the project
+
+= Introduction =
+
+An operating system or OS for short is a collection of software used for controlling hardware, allowing user friendly applications to be ran.
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Operating_system_placement.svg/250px-Operating_system_placement.svg.png
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
