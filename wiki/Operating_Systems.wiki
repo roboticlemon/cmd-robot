@@ -6,7 +6,9 @@ An operating system or OS for short is a collection of software used for control
 
 http://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Operating_system_placement.svg/250px-Operating_system_placement.svg.png
 
-= Details =
+= Microsoft Windows =
+
+For the project the main OS group used is Windows. 
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
