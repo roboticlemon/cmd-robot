@@ -23,8 +23,9 @@ This software can be found on downloads page and are also .exe files.
 
 The Linux Operating System is used in this project as the receiver and wireless access point (as of 17/11/12).  Linux uses a service called "apt-get" to download and install all of its software.  The following command should install all the software that you require for the Linux Operating System (Raspberry Pi).
 
-_sudo apt-get install python-dev pyserial_
-
+{{{
+sudo apt-get install python-dev pyserial pygame
+}}}
 
 *Arduino IDE*
 
