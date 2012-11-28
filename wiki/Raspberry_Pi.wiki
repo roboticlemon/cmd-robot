@@ -19,5 +19,6 @@ The Raspberry Pi is the Linux driven brain of both robots. It runs the TCP serve
   * Handles wireless communication
   * Writes serial data to Arduino
   * On each robot there will be at least one Raspberry Pi that runs the TCP server (tcp.py)
-  * Turns on status LEDs
+  * Turns on/off/blinks status LEDs
   * Handles sound output
+  * 
