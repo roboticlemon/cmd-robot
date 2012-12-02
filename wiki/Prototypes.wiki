@@ -31,6 +31,8 @@ Below is footage of prototype 1:
 
 =Prototype 2
 
+<wiki:video url="http://www.youtube.com/watch?v=6uckwsYmwuw"/>
+
 blah blah blah
 
 =Alpha Build=
