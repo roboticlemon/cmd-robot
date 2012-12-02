@@ -18,3 +18,7 @@ For the project the main OS group used is Windows. As of now, all clients run Wi
   * Arduino 1.0.1 SDK (Developing, testing and loading software for the Arduino)
   * Skype (Online communication between members, video, audio, text and screen sharing)
   * RealVNC Viewer (for remote viewing RPi)
+
+= Debian Wheezy, Raspbian =
+
+Rasbian is the Operating System used on our Raspberry Pis. We use the hard float version with a modified config.txt for maximum performance. Rasbian is an ARM OS 
