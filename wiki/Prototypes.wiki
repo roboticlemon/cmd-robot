@@ -29,8 +29,12 @@ Below is footage of prototype 1:
 
 <wiki:video url="http://www.youtube.com/watch?v=rO3DVX1a87w&feature=plcp"/>
 
-=Prototype 2
+=Prototype 2=
 
+==General Info==
+Prototype 2, as you guessed..., was our second prototype of CMDoverwatch
+
+==Footage==
 <wiki:video url="http://www.youtube.com/watch?v=6uckwsYmwuw"/>
 
 blah blah blah
