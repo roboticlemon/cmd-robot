@@ -21,4 +21,4 @@ For the project the main OS group used is Windows. As of now, all clients run Wi
 
 = Debian Wheezy, Raspbian =
 
-Rasbian is the Operating System used on our Raspberry Pis. We use the hard float version with a modified config.txt for maximum performance. Rasbian is an ARM OS 
+Rasbian is the Operating System used on our Raspberry Pis. We use the hard float version with a modified config.txt for maximum performance. Rasbian is an ARM OS and optimised for the Raspberry Pi to run special software including:
