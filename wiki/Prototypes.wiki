@@ -32,16 +32,36 @@ Below is footage of prototype 1:
 =Prototype 2=
 
 ==General Info==
-Prototype 2, as you guessed..., was our second prototype of CMDoverwatch
+Prototype 2 of CMDoverwatch incorporated mainly hardware changes. For the first time our robot was able to move around. This meant that the software we had written could be put to test in a real world situation.
+
+==Features==
+
+Prototype 2 had the following features:
+
+  * 2 *NEW* high speed motors
+  * Ability to move around
+  * Proper wheels and motor mounts onto a make-shift wooden frame
+  * Wireless communication (cables required for power influx)
 
 ==Footage==
 <wiki:video url="http://www.youtube.com/watch?v=6uckwsYmwuw"/>
 
-blah blah blah
 
 =Alpha Build=
 
+==General Info==
+
+CMDoverwatch Alpha was the first fully mobile unit which brought with it a series of other challenges. 
+
+==Features==
+  * 4 High powered, medium torque motors
+==Challenges==
+===Power===
+The first challenge was providing a sustainable solution to on board power. Early stages of the build used a series of AA batteries linked in series but due to their quick exhaustion by the 4 h
+
 ==Pictures==
+
+Pics of the alpha 2 build with upgraded wheels for speed, endurance and off road capabilty enhancements.
 
 http://imageshack.us/a/img705/2024/p1020624b.jpg
 http://imageshack.us/a/img716/2075/p1020625n.jpg
