@@ -60,7 +60,7 @@ CMDoverwatch Alpha was the first fully mobile unit which brought with it a serie
   * 
 ==Challenges==
 ===Power===
-The first challenge was providing a sustainable solution to on board power. Early stages of the build used a series of AA batteries linked in series but due to their quick exhaustion by the 4 h
+The first challenge was providing a sustainable solution to on board power. Early stages of the build used a series of AA batteries linked in series but due to their quick exhaustion by the 4 motors were replaced by 2 super heavy duty, rechargeable, 6V lantern batteries.
 
 ==Pictures==
 
