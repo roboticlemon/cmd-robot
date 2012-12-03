@@ -11,6 +11,6 @@ The hawkeye fleet will feed off CMD base stations and relay real time and lapsed
 Work on the first subproject, CMDbutterfly, has begun.
 
 = Details =
----
-= _*INFORMATION ON THIS TOPIC IS CURRENTLY CLASSIFIED*_ =
----
+----
+= _*FURTHER INFORMATION ON THIS TOPIC IS CURRENTLY CLASSIFIED*_ =
+----
