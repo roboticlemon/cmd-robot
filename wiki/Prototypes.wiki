@@ -1,5 +1,6 @@
 #summary Information about past and current prototypes
 #labels Featured
+#sidebar Prototypes
 
 = Introduction =
 
