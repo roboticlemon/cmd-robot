@@ -1,0 +1,7 @@
+#summary Sidebar Page
+
+= Navigation =
+
+
+  * [https://code.google.com/p/cmd-robot/wiki/Prototypes Prototypes]
+   * https://code.google.com/p/cmd-robot/wiki/Prototypes#Alpha_Build
