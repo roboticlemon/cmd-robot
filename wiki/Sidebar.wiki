@@ -4,4 +4,4 @@
 
 
   * [https://code.google.com/p/cmd-robot/wiki/Prototypes Prototypes]
-   * https://code.google.com/p/cmd-robot/wiki/Prototypes#Alpha_Build
+   * [https://code.google.com/p/cmd-robot/wiki/Prototypes#Alpha_Build Alpha Build]
