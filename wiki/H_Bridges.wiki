@@ -28,3 +28,13 @@ http://b.pololu-files.com/picture/0J3748.600.jpg?448e467f148f1ea5e4d6ba74a9a9bca
 =L293D IC=
 
 The L293D IC is a quadruple half-H driver used in prototype 1,2 and CMDrecon. Future uses may include operating a PWM enable robotic arm.
+
+==Features==
+
+  * Wide Supply-Voltage Range: 4.5 V to 36 V
+  * Separate Input-Logic Supply
+  * Internal ESD Protection
+  * Thermal Shutdown
+  * High-Noise-Immunity Inputs
+  * Output Current 600 mA Per Channel
+  * Peak Output Current 1.2 A Per Channel
