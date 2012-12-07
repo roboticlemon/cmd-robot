@@ -6,11 +6,16 @@
 H-bridges allow for large current consuming devices, like motors, to be switched on an off (or have their speed varied). In our project we have 2 main H-bridge setups. The first setup is with the Polulu VNH5019 and the second is the L293 IC.
 
 
-= VNH5019 =
+= Polulu VNH5019 =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+The Pololu Dual VNH5019 Motor Driver Shield is built specifically for use with an Arduino. It is currently the H-bridge used for CMDoverwatch to operate the 4 motors.
 
-Below is the Schematic for single PWM control with an Arduino.
+==Features==
+The shield features:
+  * Operating voltage range: 5.5 – 24 V1
+  * High output current: up to 12 A continuous (30 maximum) per motor
+  * Inputs compatible with both 5V and 3.3V systems
+  * PWM operation up to 20 kHz, which is ultrasonic and allows for quieter motor operation
+  * Motor indicator LEDs show what the outputs are doing even when no motor is connected
+  * When used as a shield, the motor power supply can optionally be used to power the Arduino base as well
+  * Can survive input voltages up to 41 V
