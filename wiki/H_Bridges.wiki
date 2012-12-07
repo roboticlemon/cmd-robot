@@ -19,3 +19,8 @@ The shield features:
   * Motor indicator LEDs show what the outputs are doing even when no motor is connected
   * When used as a shield, the motor power supply can optionally be used to power the Arduino base as well
   * Can survive input voltages up to 41 V
+
+==Pictures==
+http://a.pololu-files.com/picture/0J3753.600.jpg?bba16ba4b29c7648cb955b527c8d34c0
+http://a.pololu-files.com/picture/0J3750.600.jpg?3185a4c89350cc2a51c19a7ed1f4dd2e
+http://b.pololu-files.com/picture/0J3748.600.jpg?448e467f148f1ea5e4d6ba74a9a9bcab
