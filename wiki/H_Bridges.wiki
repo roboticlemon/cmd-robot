@@ -38,3 +38,6 @@ The L293D IC is a quadruple half-H driver used in prototype 1,2 and CMDrecon. Fu
   * High-Noise-Immunity Inputs
   * Output Current 600 mA Per Channel
   * Peak Output Current 1.2 A Per Channel
+  * 16 Pin IC socket compatible
+  * Inexpensive
+  * Small and light
