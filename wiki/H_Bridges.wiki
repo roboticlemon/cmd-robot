@@ -41,3 +41,6 @@ The L293D IC is a quadruple half-H driver used in prototype 1,2 and CMDrecon. Fu
   * 16 Pin IC socket compatible
   * Inexpensive
   * Small and light
+
+==Schematics==
+http://img404.imageshack.us/img404/9972/hbridgeschematic.png
