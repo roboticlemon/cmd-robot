@@ -24,3 +24,5 @@ http://www.raspberrypi.org/wp-content/uploads/2012/04/Raspi_Iso_Blue.png
   * Turns on/off/blinks status LEDs
   * Handles sound output
   * Handles LCD screen ouput
+
+http://www.raspberrypi.org/wp-content/uploads/2012/09/sony-rasp-pi.jpg
