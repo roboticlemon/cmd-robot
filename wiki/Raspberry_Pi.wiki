@@ -14,6 +14,8 @@ The Raspberry Pi is the Linux driven brain of both robots. It runs the TCP serve
   * Memory = 512 MB clocked at 500MHz
   * Graphics = Broadcom VideoCore IV
 
+http://www.raspberrypi.org/wp-content/uploads/2012/04/Raspi_Iso_Blue.png
+
 =Functions=
 
   * Handles wireless communication
@@ -21,4 +23,4 @@ The Raspberry Pi is the Linux driven brain of both robots. It runs the TCP serve
   * On each robot there will be at least one Raspberry Pi that runs the TCP server (tcp.py)
   * Turns on/off/blinks status LEDs
   * Handles sound output
-  * 
+  * Handles LCD screen ouput
