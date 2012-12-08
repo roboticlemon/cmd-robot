@@ -1,5 +1,4 @@
 #summary An introduction into H-bridges
-#labels Phase-Support
 
 = Introduction =
 
