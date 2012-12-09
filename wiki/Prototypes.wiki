@@ -76,3 +76,18 @@ http://imageshack.us/a/img705/2024/p1020624b.jpg
 http://imageshack.us/a/img716/2075/p1020625n.jpg
 http://imageshack.us/a/img841/2097/p1020626b.jpg
 http://imageshack.us/a/img208/5935/p1020627a.jpg
+
+----
+
+=CMDrecon=
+
+Work on CMDrecon has commenced and I am proud to announce that the first alpha build is complete! The build is 100% wired, currently feeding off computer power, not talking across a network and also completely unrefined for tank track use!
+
+Needed to be done:
+
+  * Get a makeshift frame for mounting components
+  * Solder on IC socket and other components to the Tom Board
+  * Get the Raspberry Pi ready for use with the Arduino
+  * Set up the Pi with a wireless network adaptor
+  * Refine and if necessary work on a new branch of the Control Module to include CMDrecon specific software enhancements like pivot turning and cruise control.
+  * Attach webcam for remote viewing :)
