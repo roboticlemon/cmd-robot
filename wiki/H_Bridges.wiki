@@ -42,4 +42,6 @@ The L293D IC is a quadruple half-H driver used in prototype 1,2 and CMDrecon. Fu
   * Small and light
 
 ==Schematics==
+
+Below is an image of how the L293D was used in CMDoverwatch prototypes but also in the current CMDrecon builds. It allows for biderectional control of 2 motors (or 4 if linked in parallel). 
 http://img404.imageshack.us/img404/9972/hbridgeschematic.png
