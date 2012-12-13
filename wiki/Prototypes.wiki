@@ -77,7 +77,11 @@ http://imageshack.us/a/img716/2075/p1020625n.jpg
 http://imageshack.us/a/img841/2097/p1020626b.jpg
 http://imageshack.us/a/img208/5935/p1020627a.jpg
 
-Beta Build
+=Beta Build=
+
+==General Info==
+
+Beta build is currently being worked on and consists of mainly cosmetic changes.
 
 http://imageshack.us/a/img248/6032/p1020671k.jpg
 http://imageshack.us/a/img19/4087/p1020670q.jpg
