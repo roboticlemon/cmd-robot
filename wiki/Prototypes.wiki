@@ -97,9 +97,6 @@ Features:
 Needed to be done:
 
   * Get a makeshift frame for mounting components
-  * Solder on IC socket and other components to the Tom Board
-  * Get the Raspberry Pi ready for use with the Arduino
-  * Set up the Pi with a wireless network adaptor
   * Refine and if necessary work on a new branch of the Control Module to include CMDrecon specific software enhancements like pivot turning and cruise control.
   * Attach webcam for remote viewing :)
 
