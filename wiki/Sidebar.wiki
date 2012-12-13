@@ -1,7 +1,6 @@
 #summary Sidebar Page
 
 =[https://code.google.com/p/cmd-robot/wiki/Prototypes Prototypes]=
-  * [https://code.google.com/p/cmd-robot/wiki/Prototypes Prototypes]
 http://img17.imageshack.us/img17/9717/8120242f5315865.gif
    * [https://code.google.com/p/cmd-robot/wiki/Prototypes#Alpha_Build Alpha Build]
 
