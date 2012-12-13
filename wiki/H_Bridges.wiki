@@ -1,5 +1,5 @@
 #summary An introduction into H-bridges
-
+#Sidebar TableOfContents
 = Introduction =
 
 H-bridges allow for large current consuming devices, like motors, to be switched on an off (or have their speed varied). In our project we have 2 main H-bridge setups. The first setup is with the Polulu VNH5019 and the second is the L293D IC.
