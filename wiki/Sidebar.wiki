@@ -2,6 +2,6 @@
 
 = Navigation =
 
-
+http://img832.imageshack.us/img832/7655/812023411a368b1.gif
   * [https://code.google.com/p/cmd-robot/wiki/Prototypes Prototypes]
    * [https://code.google.com/p/cmd-robot/wiki/Prototypes#Alpha_Build Alpha Build]
