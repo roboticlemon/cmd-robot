@@ -7,5 +7,5 @@ http://img17.imageshack.us/img17/9717/8120242f5315865.gif
    * [https://code.google.com/p/cmd-robot/wiki/Prototypes#Alpha_Build Alpha Build]
 
 http://img90.imageshack.us/img90/9717/8120242f5315865.gif
-  * [https://code.google.com/p/cmd-robot/wiki/Prototypes#CMDrecon Prototypes]
+  * [https://code.google.com/p/cmd-robot/wiki/Prototypes#CMDrecon  Prototypes]
    * [https://code.google.com/p/cmd-robot/wiki/Prototypes#Alpha_1 Alpha 1]
