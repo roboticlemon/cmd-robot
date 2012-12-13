@@ -1,5 +1,5 @@
 #summary What do you need on each machine to get up and running.
-#labels Featured,Phase-Support
+#labels Phase-Support
 
 = Introduction =
 
