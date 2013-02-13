@@ -2,7 +2,7 @@
 
 = Introduction =
 
-The Raspberry Pi is the Linux driven brain of both robots. It runs the TCP server and in the future will run other data servers. The Pi is also in charge of status LEDs and other hardware such as amplifiers, speakers and wireless hardware. The Pi is the device that will receive the wireless data and then write it through the serial port to the Arduino.
+The Raspberry Pi is the Linux driven brain of both robots. It runs the TCP server and in the future will run other data servers. The Raspberry Pi is also in charge of status LEDs and other hardware such as amplifiers, speakers and wireless hardware. The Raspberry Pi is the device that will receive the wireless data and then write it through the serial port to the Arduino / ATMEGA.
 = Specifications =
 
   * Device = Raspberry Pi Model B 512Mb RAM
@@ -24,5 +24,7 @@ http://www.raspberrypi.org/wp-content/uploads/2012/04/Raspi_Iso_Blue.png
   * Turns on/off/blinks status LEDs
   * Handles sound output
   * Handles LCD screen ouput
+
+*Update!!* We will now be using Raspberry Pi Model A (see home page).  Raspberry Pi Model A has less power consumption and is therefore a better choice for this project.
 
 http://www.raspberrypi.org/wp-content/uploads/2012/09/sony-rasp-pi.jpg
