@@ -1,0 +1,16 @@
+#What has changed in R2 compared to R1 to make it better!
+
+= Introduction =
+
+CMDoverwatch R1 was crippled by a mulitude of impacts and colitions.  R2 is the new and improved version of R1, whcih should take more impacts and be less affected.  Read on to find out how...
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+
+Work in Progress.  Only single Picture: 
