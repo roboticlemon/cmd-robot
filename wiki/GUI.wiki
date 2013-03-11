@@ -1,0 +1,10 @@
+#summary Information on the new GUI we have built for the Control Module
+
+= Introduction =
+
+Add your content here.
+
+
+= Pictures = 
+
+http://img546.imageshack.us/img546/2029/withstroke.png
