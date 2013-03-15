@@ -1,4 +1,5 @@
 #summary Information on the new GUI we have built for the Control Module
+#labels Featured,Phase-Requirements
 
 = Introduction =
 
@@ -8,3 +9,10 @@ The Graphical User Interface for the CMDrobots is a very new branch of the proje
 = Pictures = 
 
 http://img546.imageshack.us/img546/2029/withstroke.png
+
+
+= Further Information =
+
+Using Ironpython is not ideal but it does give us the power of python2.7 which we have the most experience in.  IronPython is an implementation of the Python programming language targeting the .NET Framework and Mono.  It is accessed through Visual Studio and runs behind a Windows Presentation Foundation (WPF).  Ironpython can access the WPF using classes and then we can tell Ironpython what to do with it.  From the WPF and Ironpython, We can launch the original 'Control Module Beta 1.6.5' on-wards.  The variables from Ironpython (configuration settings) are ported to a .txt file which is not ideal for security and portability reasons.
+
+In the Future, we want a full .NET implication which should do away with the Control Module script running in the background and will also do away with the .txt Configuration file.  This would mean we can port the program to any Windows platform device, Including Windows Phone 8 and Windows 8 tile application.  Currently we are limited by Python (including Ironpython).  Using the DirectInput class from .NET will give us the ability to have a full .NET version of the script.
