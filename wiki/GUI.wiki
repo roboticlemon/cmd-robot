@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Add your content here.
+The Graphical User Interface for the CMDrobots is a very new branch of the project.  It will allow the user to select their preferences using tick boxes and radio buttons.  This is currently written in Ironpython with WPF which will be ok for now.  A Full .NET port of this application will be created in a short time using DirectInput for Joystick acquisition.
 
 
 = Pictures = 
