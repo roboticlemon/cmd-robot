@@ -2,8 +2,7 @@
 
 = Introduction =
 
-Add your content here.
-
+Servos are used for moving objects that have a large force against them.
 
 = Images =
 
