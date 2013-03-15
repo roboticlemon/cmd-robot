@@ -1,4 +1,4 @@
-# Information on CMDrecon with images
+#summary Information on CMDrecon with images
 
 = Introduction =
 
