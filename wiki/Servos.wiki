@@ -1,0 +1,10 @@
+#summary Information on servos and how the integrate with our project
+
+= Introduction =
+
+Add your content here.
+
+
+= Images =
+
+http://learn.adafruit.com/system/assets/assets/000/003/498/medium800/fritzing.png?1357726388
