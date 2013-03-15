@@ -26,7 +26,7 @@ WPF employs XAML, an XML-based language, to define and link various UI elements.
 
 = Code Examples =
 
-XAML
+== XAML ==
 
 {{{
 <Window 
@@ -73,5 +73,47 @@ XAML
         <CheckBox x:Name="TCPEnabled_CheckBox" Content="TCP Client Enabled" Grid.Column="4" HorizontalAlignment="Left" Height="25" Margin="38,145,0,0" VerticalAlignment="Top" Width="162" Checked="TCPEnabled_CheckBox_Checked"/>
     </Grid>
 </Window>
+
+}}}
+
+== Ironpython ==
+
+{{{
+import wpf
+import clr
+import os
+import sys
+from System.Diagnostics import Process
+from time import gmtime, strftime, sleep
+from System.Windows.Controls import Image
+from System.Environment import OSVersion
+
+
+from System.Windows import Application, Window, MessageBox   # This Line works when un-commented
+
+class StartWindow(Window):
+    def __init__(self):
+        wpf.LoadComponent(self, 'CMDrobotcontrolmoduleapp.xaml')
+        self.IPaddress_TextBox.Text = 'Type IP address'
+        self.Port_TextBox.Text = 'Type Port Number'
+        self.JoystickEnable_CheckBox.IsChecked = True
+        self.DebugEnabled_CheckBox.IsChecked = False
+        self.TCPEnabled_CheckBox.IsChecked = True
+        self.dev_CheckBox.IsChecked = True
+def Start_Button_Click(self, sender, e):
+        self.Port = self.Port_TextBox.Text
+        self.IPaddress = self.IPaddress_TextBox.Text
+        if self.JoystickEnable_CheckBox.IsEnabled == True:
+            self.Joystick = 'y'
+        if self.JoystickEnable_CheckBox.IsChecked == False:
+            self.Joystick = 'n'
+        if self.DebugEnabled_CheckBox.IsChecked == True:
+            self.Debug = 'y'
+        if self.DebugEnabled_CheckBox.IsChecked == False:
+            self.Debug = 'n'
+        if self.TCPEnabled_CheckBox.IsChecked == True:
+            self.TCP = 'y'
+        if self.TCPEnabled_CheckBox.IsChecked == False:
+            self.TCP = 'n'
 
 }}}
