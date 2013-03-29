@@ -28,7 +28,7 @@ Prototype 1 featured:
 
 Below is footage of prototype 1:
 
-<wiki:video url="http://www.youtube.com/watch?v=rO3DVX1a87w&feature=plcp"/>
+<wiki:video url="http://www.youtube.com/watch?v=qzKx7UqiWZ4"/>
 
 =Prototype 2=
 
@@ -45,7 +45,10 @@ Prototype 2 had the following features:
   * Wireless communication (cables required for power influx)
 
 ==Footage==
-<wiki:video url="http://www.youtube.com/watch?v=6uckwsYmwuw"/>
+<wiki:video url="http://www.youtube.com/watch?v=m9JL0c9XgL4"/>
+
+== The death of Prototype two ==
+<wiki:video url="http://www.youtube.com/watch?v=BFQoKWN1UaM"/>
 
 
 =Alpha Build=
