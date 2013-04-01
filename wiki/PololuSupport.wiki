@@ -15,6 +15,12 @@ A few points before we continue:
  * Two motors are running out of each H-bridge
  * Running off 24 volts (4 x 6 volt lantern batteries)
  * PWM is used so that the motors are not always running off 24 volts and to vary the speed.
+ * The Gertboard (and Raspberry Pi) are used as a substitute for the Arduino
+
+
+= Some Diagrams =
+
+Below is the wiring diagram used to wire the Shield:
 
 
 
