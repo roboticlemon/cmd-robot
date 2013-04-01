@@ -1,0 +1,24 @@
+#summary This page can be used by pololu support to help...
+#labels Phase-Deploy,Phase-Support
+
+= Introduction =
+
+This page is used to show the set-up of the motors when the motors failed.  Hopefully this will help debug and solve what would have caused the problem / fault.
+
+
+= Details =
+
+A few points before we continue:
+* There is four motors in this set-up
+* The motors are 19:1 Metal Gear-motors with 5 kg cm torque 
+* We are using the Pololu Motor Shield (Dual-VNH5019-Motor-Shield)
+* Two motors are running out of each H-bridge
+* Running off 24 volts (4 x 6 volt lantern batteries)
+* PWM is used so that the motors are not always running off 24 volts and to vary the speed.
+
+
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
