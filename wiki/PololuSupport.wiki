@@ -18,7 +18,7 @@ A few points before we continue:
  * The Gertboard (and Raspberry Pi) are used as a substitute for the Arduino
 
 
-= Some Diagrams =
+== Some Diagrams ==
 
 Below is the wiring diagram used to wire the Shield:
 
