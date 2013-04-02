@@ -22,10 +22,6 @@ A few points before we continue:
 
 Below is the wiring diagram used to wire the Shield:
 
-https://docs.google.com/file/d/0B2c1yWFxK5gISFREdktSRVlXTUk/edit?usp=sharing
-
-https://drive.google.com/cmdenterprises/0B2c1yWFxK5gISFREdktSRVlXTUk/Arduino Pinout - with motor - with servo.png
-
 http://www.gdriveurl.com/?idl=413648993491&out=1&nonsense=something_that_ends_with.png
 
 
