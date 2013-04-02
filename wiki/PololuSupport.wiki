@@ -22,6 +22,9 @@ A few points before we continue:
 
 Below is the wiring diagram used to wire the Shield:
 
+https://docs.google.com/file/d/0B2c1yWFxK5gISFREdktSRVlXTUk/edit?usp=sharing
+
+
 
 
 Add your content here.  Format your content with:
