@@ -14,7 +14,7 @@ A few points before we continue:
  * We are using the Pololu Motor Shield (Dual-VNH5019-Motor-Shield)
  * Two motors are running out of each H-bridge
  * Running off 12 volts (2 x 6 volt lantern batteries)
- * PWM is used so that the motors are not always running off 24 volts and to vary the speed.
+ * PWM is used so that the motors are not always running off 12 volts and to vary the speed.
  * The Gertboard (and Raspberry Pi) are used as a substitute for the Arduino
 
 
