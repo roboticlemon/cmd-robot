@@ -24,7 +24,7 @@ Below is the wiring diagram used to wire the Shield:
 
 https://docs.google.com/file/d/0B2c1yWFxK5gISFREdktSRVlXTUk/edit?usp=sharing
 
-https://drive.google.com/cmdenterprises/arduino-pinout-with-servo.png
+https://drive.google.com/cmdenterprises/#my-drive/arduino-pinout-with-servo.png
 
 
 
