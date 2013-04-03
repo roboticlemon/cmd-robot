@@ -1,4 +1,5 @@
 #summary Explains the code of the Protection Circuit and...
+#labels Featured
 
 = Introduction =
 
@@ -9,3 +10,13 @@ This page has a detailed list of the fuses that we use.  It has colour and Amper
 
 == Fuses ==
 
+|| *Amperage* || *Quantity Available* || *Have LED Status?* || *Colour* ||
+|| 5 || 12 || Yes || Orange ||
+|| 7.5 || 8 || Yes || Brown ||
+|| 15 || 2 || Yes || Blue ||
+|| 20 || 2 || Yes || Yellow ||
+|| 30 || 5 || Yes || Green ||
+
+*NOTE:* The above information is yet to be confirmed against stock.  
+
+*ALSO NOTE:* All the Fuses have the rated amperage engraved on the silver part of the Fuse (contact).
