@@ -1,9 +1,17 @@
-#What has changed in R2 compared to R1 to make it better!
+#summary What has changed in R2 compared to R1 to make it better!
+#labels Featured,Phase-Design,Phase-Requirements
 
 = Introduction =
 
-CMDoverwatch R1 was crippled by a multitude of impacts and collisions.  R2 is the new and improved version of R1, which should take more impacts and be less affected. Development of this project is ACTIVE
+CMDoverwatch R1 was crippled by a multitude of impacts and collisions caused by (someone who shall remain disclosed).  R2 is the new and improved version of R1, which should take more impacts and be less affected. Development of this project is ACTIVE!
 
+= Improvements =
+
+The new version of CMDoverwatch includes the following upgrades:
+ * new method of securing motors to the base (failed testing)
+ * new software improvements to assist with pivot turning (failed testing)
+
+WORK IN PROGRESS
 
 = Details =
 *TBA*
