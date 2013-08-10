@@ -709,7 +709,7 @@ if endstatement == "exit":
 === TCP debug! Version 2.0.1 ===
 This is the TCP Server that we connect to via the client script.  It runs on the Raspberry Pi and is always on - even if connection is lost (thanks to developer's improvements).
 
-{{{
+<code lanuage="python2.7">
 
 print "Welcome to TCP debug! Version 2.0.1"
 from time import sleep
@@ -835,7 +835,7 @@ except KeyboardInterrupt:
 #
 
 
-}}}
+</code>
 
 == Ardunio Sketches ==
 This is installed onto the Arduino and controls the PWM signal to the motors.  There is two versions, one for CMDoverwatch the other for CMDrecon.  See below:
