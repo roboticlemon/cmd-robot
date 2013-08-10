@@ -12,7 +12,7 @@ Throughout this project we have been posting many different pieces of informatio
 
 The first program is the main client that is used as a stand-alone in a IDLE shell.  This version has added comments and does not function any differently than 1.6.3.  It includes all developer tools as well.
 
-{{{
+<code language="python2.7"> 
 print "*************************"        ###########################################
 print "*Module version Beta 1.6*"        #     #####     ##    ##      #####       #
 print "*Standby for imports....*"        #   ####      #    ##    #     ####  ###  #
@@ -703,7 +703,7 @@ endstatement = raw_input("You have reached the end of the script! (exit/ *) ")
 if endstatement == "exit":
     sys.exit("End of script!")
 
-}}}
+</code>
 
 
 === TCP debug! Version 2.0.1 ===
