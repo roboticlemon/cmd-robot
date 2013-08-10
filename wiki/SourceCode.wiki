@@ -721,7 +721,7 @@ TCP Server gets hostname from local machine and uses the hostname to
 get the IP address of the Machine.
 
 This is so that it does not matter what machine you are running the script
-on, which means that you don't need to change anything. :D
+on, which means that you don\'t need to change anything. :D
 
 Cian Byrne
 '''
