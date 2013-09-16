@@ -1787,6 +1787,14 @@ y
 n
 }}}
 
+=== Screen Designs for CMD-Robot Control System (RCS) Beta ===
+
+http://www.gdriveurl.com/?idl=913793320162&out=1&nonsense=something_that_ends_with.png
+http://www.gdriveurl.com/?idl=113793319949&out=1&nonsense=something_that_ends_with.png
+http://www.gdriveurl.com/?idl=413793320422&out=1&nonsense=something_that_ends_with.png
+http://www.gdriveurl.com/?idl=813793320622&out=1&nonsense=something_that_ends_with.png
+
+
 
 == CMD3C for Windows ==
 This piece of software was the last that we created and implemented a full VB.NET port of the program.  This was difficult because we had to learn about a new module called "Microsoft.DirectX.DirectInput" which allows one to use a joystick with Windows' accelerated graphics and input driver.  That way we did not need anything running in the background and could use a nice closed system for running everything.  
@@ -2204,7 +2212,6 @@ End Class
 http://www.gdriveurl.com/?idl=413793313318&out=1&nonsense=something_that_ends_with.png
 http://www.gdriveurl.com/?idl=113793315367&out=1&nonsense=something_that_ends_with.png
 
-IMAGES TO BE ADDED LATER 
 
 === VB.NET - Form1.vb (code) ===
 This is the first load screen where the user gets to choose what they want to control and what other settings they want.
