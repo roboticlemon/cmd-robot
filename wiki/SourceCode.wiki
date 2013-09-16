@@ -2202,6 +2202,7 @@ End Class
 === Design for JoyTCP.py ===
 
 http://www.gdriveurl.com/?idl=413793313318&out=1&nonsense=something_that_ends_with.png
+http://www.gdriveurl.com/?idl=113793315367&out=1&nonsense=something_that_ends_with.png
 
 IMAGES TO BE ADDED LATER 
 
@@ -2300,7 +2301,8 @@ End Class
 
 === Design for Form1.vb ===
 
-IMAGES TO BE ADDED LATER!
+http://www.gdriveurl.com/?idl=813793316232&out=1&nonsense=something_that_ends_with.png
+
 
 === VideoBoxForm ===
 As this code is in Pre-Alpha stages, we shall not give an explanation.
@@ -2341,7 +2343,8 @@ End Class
 
 === Design for VideoBoxForm.vb ===
 
-https://docs.google.com/file/d/0B2c1yWFxK5gIX0pFQXAxQi1vMkE/edit?usp=sharing&nonsense=something_that_ends_with.png
+http://www.gdriveurl.com/?idl=413793317415&out=1&nonsense=something_that_ends_with.png
+
 
 = Conclusion =
 
