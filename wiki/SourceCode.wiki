@@ -2201,7 +2201,7 @@ End Class
 
 === Design for JoyTCP.py ===
 
-http://googledrive.com/host/Public/CMD3C-Joy1.PNG 
+http://drive.google.com/CMDEnterprisesHQ/Public/CMD3C-Joy1.PNG 
 
 IMAGES TO BE ADDED LATER 
 
