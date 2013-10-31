@@ -1,0 +1,35 @@
+#summary A Guide to learning robotics and code.
+#labels Phase-Requirements,Featured
+
+= Introduction =
+
+This page will consolidate all the work that we have completed over the past year into a comprehensive guide for students with minimal software knowledge to complete a similar project based on components interacting with the real world.
+
+
+= What you need? =
+
+You may need to vary the produces below due to supply of some products in different areas or to increase the capabilities of your robot.  Below is the minimum for your robot to work.
+
+=== Electronics ===
+
+ * L293D - Dual H-Bridge Motor Drive.
+ * Arduino Uno _(or Any other Arduino / Arduino Substitute)_
+ * Two 6 volt DC motors _(4 will still work)_
+ * Two wheels with mounts to the motor _(or on for each motor)_
+ * Raspberry Pi
+ * Wireless Card
+ * Raspberry Pi Camera Module *(optional)*
+ * USB Power Bank 
+ * Batteries _(4 AA is referable with spares)_
+
+
+
+
+
+
+
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
