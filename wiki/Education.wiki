@@ -6,6 +6,12 @@
 This page will consolidate all the work that we have completed over the past year into a comprehensive guide for students with minimal software knowledge to complete a similar project based on components interacting with the real world.
 
 
+= So, What is involved? =
+
+This tutorial will allow you to learn two programing languages, how to use the linux operating system, basic electronics and concepts such as how programing interacts with the real world.
+
+
+
 = What you need? =
 
 You may need to vary the produces below due to supply of some products in different areas or to increase the capabilities of your robot.  Below is the minimum for your robot to work.
@@ -17,11 +23,23 @@ You may need to vary the produces below due to supply of some products in differ
  * Two 6 volt DC motors _(4 will still work)_
  * Two wheels with mounts to the motor _(or on for each motor)_
  * Raspberry Pi
+ * 4GB SD Card (Class 4 or better)
  * USB Wireless Card
  * Raspberry Pi Camera Module *(optional)*
  * USB Power Bank 
  * Batteries _(4 AA is referable with spares)_
 Alternatively, you could buy a kit <a href="http://www.jaycar.com.au/productView.asp?ID=KR3130">like this one</a> from Jaycar.  That way you don't have to go to the trouble of finding mounts for the motors, wheels and motors.
+
+=== Other ===
+
+ * Computer with internet connection and wireless capabilities
+ * SD Card reader
+ * Wireless Network
+ * Joystick
+
+= Instructions =
+
+Blah Blah Blah.
 
 
 
