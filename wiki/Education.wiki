@@ -21,7 +21,7 @@ You may need to vary the produces below due to supply of some products in differ
  * Raspberry Pi Camera Module *(optional)*
  * USB Power Bank 
  * Batteries _(4 AA is referable with spares)_
-Alternatively, you could buy a kit [like this one http://www.jaycar.com.au/productView.asp?ID=KR3130] from Jaycar.  That way you don't have to go to the trouble of finding mounts for the motors, wheels and motors.
+Alternatively, you could buy a kit <a href="http://www.jaycar.com.au/productView.asp?ID=KR3130">like this one</a> from Jaycar.  That way you don't have to go to the trouble of finding mounts for the motors, wheels and motors.
 
 
 
