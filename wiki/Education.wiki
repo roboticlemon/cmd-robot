@@ -1,4 +1,4 @@
-#summary A Guide to learning robotics and code.
+#summary A Guide to learning robotics and coding.
 #labels Phase-Requirements,Featured
 
 = Introduction =
@@ -30,6 +30,12 @@ You may need to vary the produces below due to supply of some products in differ
  * Batteries _(4 AA is referable with spares)_
 Alternatively, you could buy a kit <a href="http://www.jaycar.com.au/productView.asp?ID=KR3130">like this one</a> from Jaycar.  That way you don't have to go to the trouble of finding mounts for the motors, wheels and motors.
 
+=== Software ===
+
+ * Python IDE : <a href="http://www.python.org/getit/">Download List</a>
+ * Arduino IDE : <a href="http://arduino.cc/en/main/software">Download List </a>
+ * Raspbian - Raspberry Pi OS : Download List <a href="http://www.raspberrypi.org/downloads"> </a>
+
 === Other ===
 
  * Computer with internet connection and wireless capabilities
@@ -40,11 +46,11 @@ Alternatively, you could buy a kit <a href="http://www.jaycar.com.au/productView
 
 == Final notes before we begin: ==
 
-The following guide will reference other external sources as well as other wiki pages on this site.  The instructions are not step by step because this project should challenge you to research anything that you may need to know.  It does, however, provide links to resources when necessary for the project to work.
+The following guide will reference other external sources as well as other wiki pages on this site.  The instructions are not step by step because this project should challenge you to research anything that you may need to know and extend your learning.  It does, however, provide links to resources when necessary for the project to work.
 
 = Lets Start with Programing! =
 
-
+For this project you will need to learn the "Python 2.7" programing language.
 
 
 
