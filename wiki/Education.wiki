@@ -74,3 +74,19 @@ The problem statement for this project is: "to develop a piece of software that 
 ==== Outcomes ====
  * Working Scripts
  * Moving Robot
+
+
+= What about the Hardware? =
+We have done this for you already so that you don't have to worry if you don;t know anything about electronics...look at the bottom of this page: https://code.google.com/p/cmd-robot/wiki/H_Bridges
+
+
+= Solutions =
+Sometimes things are just all too hard and you may need to check if what you are doing is on the right track.  All the code we used for this project can be found here: https://code.google.com/p/cmd-robot/wiki/SourceCode
+
+
+= Resources =
+ * <a href="https://code.google.com/p/cmd-robot/wiki/H_Bridges"> H_Bridge Guide</a>
+ * <a href"http://www.raspberrypi.org/quick-start-guide">Getting the Raspberry Pi Up and Running </a>
+
+
+Enjoy!
