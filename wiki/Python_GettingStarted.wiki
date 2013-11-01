@@ -63,9 +63,7 @@ This involves the code executing in order BUT there is two paths that the progra
 ==== Example ====
 <pre>
 BEGIN
-
 foo = 1
-
 IF foo == 1:
 	do something
 ELSE:
@@ -85,9 +83,7 @@ YES!  It will because the condition is true.
 ==== Example 2 ====
 <pre>
 BEGIN
-
 foo = 2
-
 IF foo == 1:
 	do something
 ELSE:
@@ -108,9 +104,7 @@ This involves the code executing in order BUT you can have as many paths as you 
 ==== Example ====
 <pre>
 BEGIN
-
 foo = 3
-
 IF variable > 0:
 	PRINT "number is positive!"
 ELIF variable < 0:
@@ -136,9 +130,7 @@ The "IF" condition will be executed because "foo" is equal to "3" which is great
 ==== Example 2 ====
 <pre>
 BEGIN
-
 foo = "Hello"
-
 IF variable > 0:
 	PRINT "number is positive!"
 ELIF variable < 0:
@@ -150,6 +142,39 @@ END
 
 _What will execute in the above example?_
 The "ELSE" statement will be executed because "foo" is equal to "hello" which is a string which means it cannot be greater than (>) or less than (<) zero.
+
+
+== Pre-Test loop ==
+
+This is different from the other three control structures because it repeats the code a number of times depending on the condition set. Like Binary Selection, the conditions have to be 'True' for the code beneath the condition to execute.  Once the loop has been entered, the computer will remain in the loop until the condition becomes 'False' (not 'True')
+
+==== Example ====
+<pre>
+BEGIN
+foo = 0
+while foo < 10:
+	PRINT "foo: " + foo
+	foo = foo + 2
+END WHILE LOOP
+END
+</pre>
+
+_What's going on in this example?_
+Since "foo" is equal to zero, which is less than 10, it will enter the loop and run 5 times before it stops because "foo" will become equal to 10 (look at the condition, has to be less than 10) after 5 repeats/loops.  Below would be the output of the program:
+<pre>
+foo: 0
+foo: 2
+foo: 4
+foo: 6
+foo: 8
+</pre>
+
+== Control Structures Summary ==
+So there are five control structures, four explained above.  The four explained above are:
+ * sequence: for running single lines of code on at a time in a set order.
+ * Binary Selection: used when you have two conditions for you code to execute based on the data you give it.
+ * Multiway Selection: used when you have more than two conditions that you would like to satisfy.
+ * Pre-Test loop: used when you have to repeat a set of code many times without having to rewrite it each time.
 
 
 
