@@ -40,11 +40,13 @@ Alternatively, you could buy a kit <a href="http://www.jaycar.com.au/productView
 
 = Final notes before we begin: =
 
-The following guide will reference other external sources as well as other wiki pages on this site.
+The following guide will reference other external sources as well as other wiki pages on this site.  The instructions are not step by step because this project should challenge you to research anything that you may need to know.  It does, however, provide links to resources when necessary for the project to work.
 
-= Instructions =
+= Lets Start with Programing! =
 
-Blah Blah Blah.
+
+
+
 
 
 
