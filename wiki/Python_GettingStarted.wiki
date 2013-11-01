@@ -29,8 +29,30 @@ In-order for you to complete this project, you must learn the python programming
 ||Variable || a named space in the RAM that can be used to store numbers and strings. ||
 
 
+= Control Structures (Basic Concepts) =
 
+There are 5 control structures that can be used when programming.  They are:
+ * Sequence
+ * Binary Selection
+ * Multiway Selection
+ * Pre-test loop
+ * Post-test loop
 
+For this project, you will be using four of the five listed above (you won't be using post-test loops)
+
+== Sequence ==
+
+This involves the code running in order of the command listed.  Or put another way, every line run once in order.
+
+==== Example ====
+<pre>
+BEGIN
+command one
+command two
+...
+command one hundred
+END
+</pre>
 
 
 
