@@ -80,7 +80,6 @@ If none of the conditions are 'True' then the "ELSE" (or "else" in Python) code 
 
 
 _Will the code execute the "do something" command?_
-
 YES!  It will because the condition is true.
 
 ==== Example 2 ====
@@ -99,7 +98,6 @@ END
 This is the same example as above but "foo" is now equal to "2".
 
 _Will the code execute the "do something" command?_
-
 NO!  It will not because the condition is now false.  "foo" does not equal "1", so it will not execute the command.
 
 
@@ -123,13 +121,45 @@ END
 </pre>
 
 _ELIF you ask?_
-"ELIF" or "elif" in Python is short for "Else If" and is used when you have multiple paths for your program to choose from.
+"ELIF" or "elif" in Python is short for "Else If" and is used when you have multiple paths for your program to choose from.  You must always have an "IF" condition before you have a "ELIF" condition.
 
 _What's going on?_
 In the above example, there are three paths that the program can take: 
  * IF
  * ELIF
  * ELSE
+When the "IF" condition is 'True' that will execute.  When the "ELIF" condition is 'True' that will execute.  If neither are 'True' then the "ELSE" statement code will be executed.
+
+_What will execute in the above example?_
+The "IF" condition will be executed because "foo" is equal to "3" which is greater than (>) zero.
+
+==== Example 2 ====
+<pre>
+BEGIN
+
+foo = "Hello"
+
+IF variable > 0:
+	PRINT "number is positive!"
+ELIF variable < 0:
+	PRINT "number is negative!"
+ELSE
+	do nothing
+END
+</pre>
+
+_What will execute in the above example?_
+The "ELSE" statement will be executed because "foo" is equal to "hello" which is a string which means it cannot be greater than (>) or less than (<) zero.
+
+
+
+
+
+
+
+
+
+
 
 
 
