@@ -34,7 +34,7 @@ Alternatively, you could buy a kit <a href="http://www.jaycar.com.au/productView
 
  * Python IDE : <a href="http://www.python.org/getit/">Download List</a>
  * Arduino IDE : <a href="http://arduino.cc/en/main/software">Download List </a>
- * Raspbian - Raspberry Pi OS : Download List <a href="http://www.raspberrypi.org/downloads"> </a>
+ * Raspbian - Raspberry Pi OS :  <a href="http://www.raspberrypi.org/downloads">Download List</a>
 
 === Other ===
 
