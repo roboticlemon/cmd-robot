@@ -37,6 +37,11 @@ Alternatively, you could buy a kit <a href="http://www.jaycar.com.au/productView
  * Wireless Network
  * Joystick
 
+
+= Final notes before we begin: =
+
+The following guide will reference other external sources as well as other wiki pages on this site.
+
 = Instructions =
 
 Blah Blah Blah.
