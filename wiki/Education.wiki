@@ -6,13 +6,13 @@
 This page will consolidate all the work that we have completed over the past year into a comprehensive guide for students with minimal software knowledge to complete a similar project based on components interacting with the real world.
 
 
-= So, What is involved? =
+== So, What is involved? ==
 
 This tutorial will allow you to learn two programing languages, how to use the linux operating system, basic electronics and concepts such as how programing interacts with the real world.
 
 
 
-= What you need? =
+== What you need? ==
 
 You may need to vary the produces below due to supply of some products in different areas or to increase the capabilities of your robot.  Below is the minimum for your robot to work.
 
@@ -38,7 +38,7 @@ Alternatively, you could buy a kit <a href="http://www.jaycar.com.au/productView
  * Joystick
 
 
-= Final notes before we begin: =
+== Final notes before we begin: ==
 
 The following guide will reference other external sources as well as other wiki pages on this site.  The instructions are not step by step because this project should challenge you to research anything that you may need to know.  It does, however, provide links to resources when necessary for the project to work.
 
