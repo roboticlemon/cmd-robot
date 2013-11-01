@@ -11,6 +11,7 @@ In-order for you to complete this project, you must learn the python programming
 ||Algorithm|| a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.||
 ||Binary|| relating to, composed of, or involving two things.  In Computing, also refers to the signalling system used by computers in '1' and '0'.||
 ||CLI || Command-Line Interface.  eg. Command Prompt, Terminal. ||
+||Condition || ||
 ||Control Structure || A group of statements which determines the order the statements are to be executed. ||
 ||Data || raw figures and signals, which may not convey a mean to a person. ||
 ||Data Type || a particular kind of data item, as defined by the values it can take, the programming language used, or the operations that can be performed on it. ||
@@ -42,7 +43,7 @@ For this project, you will be using four of the five listed above (you won't be 
 
 == Sequence ==
 
-This involves the code running in order of the command listed.  Or put another way, every line run once in order.
+This involves the code executing in order of the command listed.  Or put another way, every line run once in order.  This is the simplest control structure.
 
 ==== Example ====
 <pre>
@@ -55,8 +56,80 @@ END
 </pre>
 
 
+== Binary Selection ==
+
+This involves the code executing in order BUT there is two paths that the program could take.  In programing, "IF" and "ELSE" conditions are used to make the program do different tasks based on the data it is given.  When the "IF" condition is 'True' the program will run that piece of code, otherwise it won't run that piece of code. 
+
+==== Example ====
+<pre>
+BEGIN
+
+foo = 1
+
+IF foo == 1:
+	do something
+ELSE:
+	do nothing
+END
+</pre>
+
+In the above example, the variable "foo" is set to equal to 1.  The "IF" condition has been set so that IF "foo" equals "1" it will *do something* (because that is when that condition is TRUE). 
+
+_What about the ELSE statement?_
+If none of the conditions are 'True' then the "ELSE" (or "else" in Python) code will run.  Otherwise it will be ignored.
 
 
+_Will the code execute the "do something" command?_
+
+YES!  It will because the condition is true.
+
+==== Example 2 ====
+<pre>
+BEGIN
+
+foo = 2
+
+IF foo == 1:
+	do something
+ELSE:
+	do nothing
+END
+</pre>
+
+This is the same example as above but "foo" is now equal to "2".
+
+_Will the code execute the "do something" command?_
+
+NO!  It will not because the condition is now false.  "foo" does not equal "1", so it will not execute the command.
+
+
+== Multiway Selection ==
+
+This involves the code executing in order BUT you can have as many paths as you like and that the program can take.  
+
+==== Example ====
+<pre>
+BEGIN
+
+foo = 3
+
+IF variable > 0:
+	PRINT "number is positive!"
+ELIF variable < 0:
+	PRINT "number is negative!"
+ELSE
+	do nothing
+END
+</pre>
+
+_ELIF you ask?_
+"ELIF" or "elif" in Python is short for "Else If" and is used when you have multiple paths for your program to choose from.
+
+_What's going on?_
+In the above example, there are three paths that the program can take: 
+ * IF
+ * ELIF
+ * ELSE
 
 
 
