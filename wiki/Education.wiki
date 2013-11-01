@@ -11,11 +11,12 @@ This page will consolidate all the work that we have completed over the past yea
 This tutorial will allow you to learn two programing languages, how to use the linux operating system, basic electronics and concepts such as how programing interacts with the real world.
 
 ==== The NSW Syllabus for IST ====
- Students will develop:
- * 5.1 knowledge and understanding of a range of computer software and hardware.
- * 5.2 problem-solving and critical thinking skills in order to design and develop creative information and software technology solutions for a variety of real-world problems.
- * 5.5 effective communication skills and collaborative work practices leading to information and software technology solutions for specific problems.
-
+<pre>
+Students will develop:
+   5.1 knowledge and understanding of a range of computer software and hardware.
+   5.2 problem-solving and critical thinking skills in order to design and develop creative information and software technology solutions for a variety of real-world problems.
+   5.5 effective communication skills and collaborative work practices leading to information and software technology solutions for specific problems.
+</pre>
 
 == What you need? ==
 
