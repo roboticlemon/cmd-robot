@@ -56,7 +56,8 @@ The following guide will reference other external sources as well as other wiki 
 
 = Lets Start with Programing! =
 
-For this project you will need to learn the "Python 2.7" programing language and some basic concepts of programing.
+For this project you will need to learn the "Python 2.7" programing language and some basic concepts of programing.  Another Wiki Page has been made to facilitate this part, found <a href="https://code.google.com/p/cmd-robot/wiki/Python_GettingStarted"> here.</a>
+
 
 
 
