@@ -1,0 +1,45 @@
+#summary Introduction to Python 2.7.
+#labels Phase-Support
+
+= Introduction =
+
+In-order for you to complete this project, you must learn the python programming language.  
+
+
+= Word Bank =
+
+||Algorithm|| a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.||
+||Binary|| relating to, composed of, or involving two things.  In Computing, also refers to the signalling system used by computers in '1' and '0'.||
+||CLI || Command-Line Interface.  eg. Command Prompt, Terminal. ||
+||Control Structure || A group of statements which determines the order the statements are to be executed. ||
+||Data || raw figures and signals, which may not convey a mean to a person. ||
+||Data Type || a particular kind of data item, as defined by the values it can take, the programming language used, or the operations that can be performed on it. ||
+||Error || a problem in the code that may cause the program not to work properly. ||
+||Function || a sequence of program instructions that perform a specific task, packaged as a one. ||
+||GUI || Graphical User Interface.  eg. Windows 7, MacOSX. ||
+||Integer || a data type, which uses only whole numbers. ||
+||Interpreter || an interpreter is a computer program that directly executes instructions written in a programming language, without previously compiling them into machine language (ones and zeros). ||
+||Logic || the way the program is written, in a particular order to achieve a task following the syntax of the programming language. ||
+||Module || a separate part of a program that has that contains everything necessary to execute only one aspect of the desired functionality. ||
+||Program || a sequence of instructions, written to perform a specified task with a computer. ||
+||Software || any set of machine-readable instructions that directs a computer's processor to perform specific operations. ||
+||Source Code || a text listing of commands to be compiled or assembled into an executable computer program. ||
+||String || a data type, that contains any number of characters (letters, numbers, etc). ||
+||Syntax ||  The grammar of the programming language.  This must be followed, otherwise your program won't work. ||
+||Variable || a named space in the RAM that can be used to store numbers and strings. ||
+
+
+
+
+
+
+
+
+
+
+
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
