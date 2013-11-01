@@ -58,6 +58,25 @@ The following guide will reference other external sources as well as other wiki 
 For this project you will need to learn the "Python 2.7" programing language and some basic concepts of programing.  Another Wiki Page has been made to facilitate this part, found <a href="https://code.google.com/p/cmd-robot/wiki/Python_GettingStarted"> here.</a>
 
 
+If you have read the above page, please continue.
+
+
+The <a href="https://code.google.com/p/cmd-robot/wiki/SoftwareDevCycle"> Software Development Cycle </a> should be used through the duration of this project.  
+
+=== Define the problem ===
+The problem statement for this project is: "to develop a piece of software that will be able to wirelessly communicate with your robot and be able to control the robot with a joystick."
+
+==== How do you solve this problem? ====
+ * Python scripts (coded by you)
+ * Arduino C scripts (coded by Cian Byrne - they are beyond the reach of this tutorial)
+ * research and investigation using the Wiki Pages on this site and the Issues Pages for problems you may be having that we have overcome.
+
+==== Outcomes ====
+ * Working Scripts
+ * Moving Robot
+
+
+
 
 
 
