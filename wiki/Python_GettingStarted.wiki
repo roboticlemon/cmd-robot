@@ -177,6 +177,16 @@ So there are five control structures, four explained above.  The four explained 
  * Pre-Test loop: used when you have to repeat a set of code many times without having to rewrite it each time.
 
 
+= Python Syntax =
+
+If you understand the above concepts, you are ready to move onto learning Python Syntax.  Follow <a href="http://en.wikipedia.org/wiki/Python_syntax_and_semantics">this link to find out information on the Python Syntax.</a>  Another summary of the Python Syntax can be found <a href="http://www.tutorialspoint.com/python/python_basic_syntax.htm">here.</a>  
+
+Read these pages to get an overview of the Python Syntax and a basic idea of how to program.  Teaching you everything about programming is beyond this tutorial.
+
+For further reading go to the Python Official Documentation pages accessible here: http://docs.python.org/release/2.7.3/
+
+
+
 
 
 
