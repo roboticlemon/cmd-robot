@@ -42,21 +42,21 @@ if(Serial.available()==3)
   dir_y = int(Byte3);
   
   if (dir_y == 2) { //Motor Backwards
-  digitalWrite(motorLLow, HIGH);
-  digitalWrite(motorLHigh, LOW);
-  digitalWrite(motorRLow, HIGH);
-  digitalWrite(motorRHigh, LOW);
-  analogWrite(motorLPWM, motor_a);
-  analogWrite(motorRPWM, motor_b);
+    digitalWrite(motorLLow, HIGH);
+    digitalWrite(motorLHigh, LOW);
+    digitalWrite(motorRLow, HIGH);
+    digitalWrite(motorRHigh, LOW);
+    analogWrite(motorLPWM, motor_a);
+    analogWrite(motorRPWM, motor_b);
   }
   else if (dir_y == 1) {  //Motor Forwards and Single motor Turning
-  digitalWrite(motorLLow, LOW);
-  digitalWrite(motorLHigh, HIGH);
-  digitalWrite(motorRLow, LOW);
-  digitalWrite(motorRHigh, HIGH);
-  analogWrite(motorLPWM, motor_a);
-  analogWrite(motorRPWM, motor_b);
+    digitalWrite(motorLLow, LOW);
+    digitalWrite(motorLHigh, HIGH);
+    digitalWrite(motorRLow, LOW);
+    digitalWrite(motorRHigh, HIGH);
+    analogWrite(motorLPWM, motor_a);
+    analogWrite(motorRPWM, motor_b);
   }
-  }
+ }
   
 }
