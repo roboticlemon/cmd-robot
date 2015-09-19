@@ -1,0 +1,33 @@
+C:\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\bin\Debug\CMD3C for Windows.exe.config
+C:\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\Interop.AXVLC.dll
+C:\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\Interop.WMPLib.dll
+C:\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\CMD3C for Windows.vbproj.ResolveComReference.cache
+C:\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\bin\Debug\CMD3C for Windows.exe
+C:\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\bin\Debug\CMD3C for Windows.pdb
+C:\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\bin\Debug\CMD3C for Windows.xml
+C:\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\bin\Debug\Interop.AXVLC.dll
+C:\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\CMD3C_for_Windows.StartForm.resources
+C:\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\CMD3C_for_Windows.JoyTCP.resources
+C:\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\CMD3C_for_Windows.Resources.resources
+C:\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\CMD3C_for_Windows.VideoBoxForm.resources
+C:\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\CMD3C for Windows.vbproj.GenerateResource.Cache
+C:\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\CMD3C for Windows.exe
+C:\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\CMD3C for Windows.xml
+C:\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\CMD3C for Windows.pdb
+C:\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\CMD3C for Windows.vbprojResolveAssemblyReference.cache
+E:\Backup 090014 31-10-14\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\bin\Debug\CMD3C for Windows.exe.config
+E:\Backup 090014 31-10-14\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\Interop.AXVLC.dll
+E:\Backup 090014 31-10-14\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\Interop.MediaPlayer.dll
+E:\Backup 090014 31-10-14\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\Interop.WMPDXMLib.dll
+E:\Backup 090014 31-10-14\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\Interop.WMPLauncher.dll
+E:\Backup 090014 31-10-14\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\Interop.WMPLib.dll
+E:\Backup 090014 31-10-14\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\AxInterop.AXVLC.dll
+E:\Backup 090014 31-10-14\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\CMD3C for Windows.vbproj.ResolveComReference.cache
+E:\Backup 090014 31-10-14\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\CMD3C for Windows.exe
+E:\Backup 090014 31-10-14\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\CMD3C for Windows.xml
+E:\Backup 090014 31-10-14\Users\Cian\Documents\Visual Studio 2012\Projects\CMD3C for Windows\CMD3C for Windows\obj\Debug\CMD3C for Windows.pdb
